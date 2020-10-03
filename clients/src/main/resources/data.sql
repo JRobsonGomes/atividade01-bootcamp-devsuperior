@@ -11,4 +11,4 @@ INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joselit
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Juan Rafael de alencar', '77353612037', 4200.00, TIMESTAMP WITH TIME ZONE '1999-04-10T20:50:07.12345Z', 1);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bio Vaqueiro de Macuquino', '12440225002', 3210.00, TIMESTAMP WITH TIME ZONE '1968-07-11T20:50:07.12345Z', null);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Grinalda de Farias Lima', '79034754014', 1650.00, TIMESTAMP WITH TIME ZONE '1995-10-16T20:50:07.12345Z', 2);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Peidolino de Vieira Neto', '79034754014', 850.00, TIMESTAMP WITH TIME ZONE '1996-12-19T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Peidolino Vieira Neto', '79034754014', 850.00, TIMESTAMP WITH TIME ZONE '1996-12-19T20:50:07.12345Z', 1);
